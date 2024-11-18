@@ -1,6 +1,5 @@
 ### **README.md**
 
-```markdown
 # Competitor Tracking System MVP
 
 This project is a **Competitor Tracking System** that automates monitoring of competitor activity across multiple sources, including GitHub repositories, job postings, app reviews, and pricing changes. It aggregates the data and generates daily reports.
@@ -25,8 +24,8 @@ This project is a **Competitor Tracking System** that automates monitoring of co
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/competitor-tracking-system.git
-cd competitor-tracking-system
+git clone https://github.com/sshashwat10/Assignment.git
+cd Assignment
 ```
 
 ### **2. Install Dependencies**
