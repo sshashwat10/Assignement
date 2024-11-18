@@ -1,0 +1,10 @@
+---
+
+### **requirements.txt**
+```plaintext
+requests==2.31.0
+beautifulsoup4==4.12.2
+google-play-scraper==1.2.1
+textblob==0.17.1
+pandas==2.1.3
+```
